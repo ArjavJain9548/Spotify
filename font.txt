@@ -1,0 +1,2 @@
+font-family: 'Pathway Extreme', sans-serif;
+font-family: 'Varela Round', sans-serif;
